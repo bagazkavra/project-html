@@ -1,0 +1,17 @@
+{
+  "name": "Mylist Android Vault",
+  "short_name": "Mylist",
+  "description": "Aplikasi offline vault aman untuk mencatat profil dan data penting langsung di Android.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
